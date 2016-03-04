@@ -4,7 +4,7 @@ body{
 .contenedor{
 	
 	width:960px;
-	margin: 0 auto;
+	margin: 20 auto;
 }
 .menu-lista{
 list-style-type: none;
